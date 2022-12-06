@@ -62,7 +62,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
 
 
   body {
-    background: linear-gradient( #dc16c5, #8a25ce, #ffffff, #af0964);
+    background: linear-gradient( #dc16c5, #8a25ce, #c1630c, #af0964);
     font-family: var(--base-font-family);
   }
 
@@ -372,7 +372,7 @@ background: #000000;
   -----------------------------------------*/
 
   .hero {
-    background-image: url('../images/Tutorial\ Website\ Blog\ Banner\ \(2\).gif');
+    background-image: url('../images/Football\ Sport\ News\ Youtube\ Video\ Intro\ \(2\).gif');
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -578,7 +578,7 @@ background: #000000;
   /*---------------------------------------
      FOOTER              
   -----------------------------------------*/
-
+/* 
   .site-footer {
     border-top: 1px solid #efebeb;
     padding: 3rem 0;
@@ -706,3 +706,4 @@ background: #000000;
         background-size: cover;
     }
 }
+
