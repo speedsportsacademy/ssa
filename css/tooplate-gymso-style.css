@@ -766,3 +766,21 @@ background: #000000;
   color: #ed563b;
   font-weight: 900;
 }
+
+/* 
+
+.bg-footer {
+  background: url(../images/abstract-blue-color-wave-design-element-vector-8680350.jpg) center center no-repeat;
+  background-size: contain;
+} */
+
+@media (max-width: 991.98px) {
+  .bg-call-to-action,
+  .bg-footer {
+      background-size: cover;
+  }
+}
+
+.map{
+  
+}
