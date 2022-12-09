@@ -767,12 +767,21 @@ background: #000000;
   font-weight: 900;
 }
 
-/* 
+
 
 .bg-footer {
-  background: url(../images/abstract-blue-color-wave-design-element-vector-8680350.jpg) center center no-repeat;
+  background: url(../images/corporate\ letterhead.png) center center no-repeat;
   background-size: contain;
-} */
+} 
+.bg-follow {
+  background: url(../images/ezgif.com-gif-maker-2.gif) center center no-repeat;
+  background-size: contain;
+} 
+
+.bg-footer1 {
+  background: url(../images/corporate\ letterhead\ \(500\ ×\ 200\ px\).png) center center no-repeat;
+  background-size: contain;
+} 
 
 @media (max-width: 991.98px) {
   .bg-call-to-action,
@@ -781,6 +790,24 @@ background: #000000;
   }
 }
 
-.map{
-  
+.page-about {
+  height: 500px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(../images/about.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.page-contact {
+  height: 500px;
+  background:url(../images/contact.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.contactbody{
+  background-color: #404040;
 }
